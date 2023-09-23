@@ -1,4 +1,4 @@
-## Sistem Informasi Kemasyarakatan Kelurahan (SIMKLUR)
+## Sistem Informasi Desa
 
 - [x] Untuk Wilayah indonesia get dari https://github.com/mocfaisal/wilayah_indonesia
 - [x] Get Data Prov, Kecamatan, Kabupaten menggunakan dependent dropdown with jquery and ajax
@@ -21,5 +21,3 @@
 - [ ] Recent Activity / Log Superadmin & RT
 
 <b>Note<b/> : Masih dalam tahap pengembangan dan uji coba !
-
-### Pembuat : Imam Sudarajat
